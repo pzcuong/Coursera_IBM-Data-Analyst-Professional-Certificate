@@ -14,12 +14,12 @@ About This workshop and the materials in this repo are for anyone who is interes
 
 The courses enlisted as follows:
 
-- [x] **C1-Introduction to Data Analytics**
-- [x] **C2-Excel Basics for Data Analysis**
-- [x] **C3-Data Visualization and Dashboard with Excel and Cognos**
-- [x] **C4-Python for Data Science, AI & Development**
-- [x] **C5-Python Project for Data Science**
-- [x] **C6-Databases and SQL for Data Science with Python**
+- [] **C1-Introduction to Data Analytics**
+- [] **C2-Excel Basics for Data Analysis**
+- [] **C3-Data Visualization and Dashboard with Excel and Cognos**
+- [] **C4-Python for Data Science, AI & Development**
+- [] **C5-Python Project for Data Science**
+- [] **C6-Databases and SQL for Data Science with Python**
 - [ ] **C7-Data Analysis with Python**
 - [ ] **C8-Data Visualization with Python**
 - [ ] **C9-IBM Data Analyst Capstone Project**
